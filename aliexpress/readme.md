@@ -4,4 +4,4 @@ O Aliexpress é um facilitador de compras, ele é a ponte entre os vendedores e 
 
 A empresa foi formada em 2010, sendo controlada pelo Alibaba Group, sua sede é em Hangzhou na China e além dos serviços de e-commerce para business to business, atende ao varejo e pagamentos online.
 
-![Diagrama](https://github.com/Felipecasadia/POO/blob/master/aliexpress/diagrama-aliexpress.png)
+![Diagrama](https://github.com/Felipecasadia/POO/blob/main/aliexpress/diagrama-aliexpress.png)
