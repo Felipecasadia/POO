@@ -1,3 +1,7 @@
 # Sistema Aliexpress
 
-AliExpress é um serviço de varejo on-line fundado em 2010, pertencente ao conglomerado chinês Alibaba Group ou Grupo Alibaba. É um grupo de empresas com sede em Hangzhou, China, de propriedade privada baseada em e-commerce na internet, incluindo sites online de business-to-business, serviços de varejo e pagamento online, um motor de busca para compras e serviços de computação na nuvem centrados em dados.
+O Aliexpress é um facilitador de compras, ele é a ponte entre os vendedores e fabricantes asiáticos com o mercado do ocidente. Assim, marcas podem oferecer bons preços por seus produtos diretamente ao cliente, vendedores individuais também o fazem. 
+
+A empresa foi formada em 2010, sendo controlada pelo Alibaba Group, sua sede é em Hangzhou na China e além dos serviços de e-commerce para business to business, atende ao varejo e pagamentos online.
+
+![Diagrama](https://github.com/Felipecasadia/POO/blob/master/aliexpress/Diagrama.pdf)
